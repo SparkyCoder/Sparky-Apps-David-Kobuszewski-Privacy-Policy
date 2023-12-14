@@ -1,0 +1,5 @@
+“Collect” refers to transmitting data off the device in a way that allows the app publisher or third-party partners to access it for a period longer than what is necessary to service the transmitted request in real time.
+
+This application does not collect or store personal data. All data remains in local storage on the device itself. 
+
+If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
